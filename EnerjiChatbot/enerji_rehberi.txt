@@ -1,0 +1,115 @@
+
+Konu: Enerji Tasarrufu Nedir?
+Tanım: Enerji tasarrufu, üretimde, konforda ve iş gücünde herhangi bir azalma olmadan enerjinin verimli kullanılmasıdır. Aynı işi daha az enerji ile yapmaktır. Enerji atıklarının değerlendirilmesi ve mevcut enerji kayıplarının önlenmesi yoluyla tüketilen enerji miktarının azaltılmasıdır.
+
+Konu: Neden Enerji Tasarrufu Yapmalıyız?
+Bilgi:
+1. Fosil yakıtlar (kömür, petrol) hızla tükenmektedir ve yenilenmeleri milyonlarca yıl sürer.
+2. Enerji tüketimi sonucu oluşan sera gazları küresel ısınma ve iklim değişikliğine neden olur.
+3. Türkiye enerjisinin yaklaşık %70'ini ithal etmektedir; tasarruf dışa bağımlılığı azaltır.
+4. Aile bütçesine ve ülke ekonomisine doğrudan katkı sağlar.
+
+
+Konu: Binalarda Isı Yalıtımı
+Detay: Binalarda ısı kaybının en büyük nedenleri yalıtımsız çatı, cephe ve pencerelerdir.
+- Dış cephe mantolaması ile yakıt maliyetlerinde %35-50 oranında tasarruf sağlanır.
+- Çatı yalıtımı, ısınan havanın yükselip kaçmasını engeller ve %20 tasarruf sağlar.
+- Pencere ve kapılardan kaynaklı ısı kaybı yaklaşık %15-20 civarındadır.
+
+Konu: Radyatör ve Kalorifer Kullanımı
+İpuçları:
+- Radyatörlerin (peteklerin) önü koltuk, perde veya mobilya ile kapatılmamalıdır. Bu durum ısı akışını %15 oranında engeller.
+- Radyatör arkasına alüminyum folyolu ısı yalıtım levhaları yerleştirmek %6 tasarruf sağlar.
+- Termostatik vana kullanılarak oda sıcaklığı sabit tutulmalıdır. Oda sıcaklığındaki her 1°C'lik azalma (örneğin 23°C yerine 22°C), yakıt tüketiminde %5-7 tasarruf sağlar.
+- Güney cephedeki odaların perdeleri gündüz açık tutularak güneş enerjisinden yararlanılmalıdır.
+
+Konu: Pencere ve Kapı Yalıtımı
+İpuçları:
+- Tek camlı pencerelerde ısı kaybı yüksektir; çift cam (ısıcam) kullanımı ısı kaybını %50 azaltır.
+- Pencere ve kapı kenarlarındaki hava sızıntıları sünger veya fitil ile kapatılmalıdır.
+- Sızıntı kontrolü için yanan bir mum pencere kenarında dolaştırılabilir; alev dalgalanıyorsa sızıntı vardır.
+
+
+Konu: Buzdolabı Kullanımı ve Enerji Tasarrufu
+Önem: Evdeki elektrik tüketiminin yaklaşık %30'unu buzdolabı oluşturur. Sürekli çalışan tek cihazdır.
+İpuçları:
+- Buzdolabı; fırın, radyatör gibi ısı kaynaklarından ve doğrudan güneş ışığından uzağa yerleştirilmelidir. Isı kaynaklarının yanında olması tüketimi %10-20 artırır.
+- Duvar ile buzdolabı arkasında en az 10 cm hava boşluğu bırakılmalıdır.
+- İdeal sıcaklık ayarı: Soğutucu kısım +4°C, dondurucu kısım -18°C'dir.
+- Sıcak yemekler oda sıcaklığına gelmeden dolaba konulmamalıdır.
+- Dolap kapağının sızdırmazlık contaları (fitilleri) kontrol edilmelidir.
+- Derin dondurucudan çıkarılan ürünler buzdolabı kısmında çözdürülmelidir; bu işlem dolabın soğumasına yardımcı olur.
+
+Konu: Fırın ve Ocak Kullanımı
+İpuçları:
+- Fırın kapağı pişirme süresince gereksiz yere açılmamalıdır. Her açılışta sıcaklık 25-30°C düşer ve %20 enerji kaybı yaşanır.
+- Yemek pişmeden 5 dakika önce fırın kapatılarak mevcut ısı ile pişirme tamamlanabilir.
+- Mikrodalga fırınlar, az miktardaki yemekleri ısıtmak için normal fırına göre %66 daha az enerji harcar.
+- Ocakta yemek pişerken tencere kapağı kapalı tutulmalıdır; bu %60 tasarruf sağlar.
+- Tencere tabanı düz olmalı ve ocak alevi tencere tabanını aşmamalıdır.
+
+Konu: Bulaşık Makinesi Kullanımı
+İpuçları:
+- Makine tam dolmadan çalıştırılmamalıdır.
+- Bulaşıklar makineye konmadan önce sudan geçirilmemeli, sadece kaba artıkları peçete veya çatalla sıyırılmalıdır.
+- 60°C yerine 50°C'lik ekonomik (Eco) programlar kullanmak %10-20 enerji tasarrufu sağlar.
+- Kurutma işlemi bittiğinde makine kapağı açılarak doğal kuruma sağlanabilir.
+
+
+Konu: Çamaşır Makinesi Kullanımı
+İpuçları:
+- Makine tam kapasite ile çalıştırılmalıdır (tamburda bir karış boşluk kalacak şekilde).
+- Çok kirli olmayan çamaşırlar için ön yıkama yapılmamalıdır.
+- Çamaşırları yüksek sıcaklıkta yıkamak yerine 30-40°C tercih edilmelidir.
+- Yüksek enerji sınıfı (A, A+, A+++) makineler tercih edilmelidir.
+
+Konu: Ütü Kullanımı
+İpuçları:
+- Ütüleme işlemi bitmeden 5 dakika önce ütü fişten çekilmelidir; tabandaki mevcut ısı son parçalar için yeterlidir.
+- Çamaşırlar aşırı kurumadan, hafif nemliyken ütülenmelidir. Bu, kırışıklıkların daha kolay açılmasını sağlar.
+- Buhar kapasitesi yüksek ve termostatlı ütüler tercih edilmelidir.
+
+Konu: Elektrikli Süpürge Kullanımı
+İpuçları:
+- Süpürgenin torbası sık sık boşaltılmalı veya değiştirilmelidir. Dolu torba emiş gücünü düşürür ve motorun %10 daha fazla enerji harcamasına neden olur.
+- Filtreleri düzenli temizlenmelidir.
+
+
+Konu: Aydınlatmada Verimlilik
+İpuçları:
+- Akkor ampuller yerine LED veya Kompakt Floresan lambalar kullanılmalıdır. LED lambalar %80-90 tasarruf sağlar ve ömürleri çok daha uzundur.
+- Odadan çıkarken ışıklar kapatılmalıdır.
+- Duvarlar ve tavanlar açık renge boyanmalıdır; bu ışığın daha iyi yansımasını sağlar.
+- Koridor ve apartman boşluklarında harekete duyarlı sensörlü lambalar kullanılmalıdır.
+
+Konu: Elektronik Cihazlar ve "Vampir Enerji"
+Bilgi: Televizyon, bilgisayar, uydu alıcısı ve oyun konsolları "bekleme" (stand-by) modunda iken elektrik tüketmeye devam eder. Buna "vampir enerji" denir.
+İpuçları:
+- Cihazlar kumandadan değil, üzerindeki açma-kapama düğmesinden kapatılmalı veya fişten çekilmelidir.
+- Anahtarlı uzatma kabloları (grup priz) kullanılarak tek tuşla tüm cihazların elektriği kesilebilir.
+- Şarj aletleri telefon/bilgisayar dolduktan sonra prizde bırakılmamalıdır.
+
+
+Konu: Evde Su Tasarrufu
+İpuçları:
+- Muslukların su damlatmadığından emin olunmalıdır. Saniyede bir damla su kaçıran musluk yılda 3 ton su israf eder.
+- Duş süresi kısaltılmalıdır. Küveti doldurmak yerine duş almak su tüketimini 3-4 kat azaltır.
+- Düşük akımlı (perlatörlü) musluk başlıkları kullanılmalıdır; bu suyun hava ile karışarak daha tazyikli ama az akmasını sağlar.
+- Sebze ve meyveler akan suyun altında değil, su dolu bir kapta yıkanmalıdır.
+
+
+Konu: Araç Kullanımı ve Yakıt Ekonomisi
+İpuçları:
+- Lastik hava basıncı düzenli kontrol edilmelidir. 0.5 bar eksik hava, yakıt tüketimini %5 artırır.
+- Araçtaki gereksiz yükler (bagajdaki eşyalar) boşaltılmalıdır. Her 100 kg ekstra yük, yakıt tüketimini litre bazında artırır.
+- 100 km/s hızın üzerinde giderken camların açık olması, aerodinamik sürtünmeyi artırarak %4 fazla yakıt tüketimine neden olur.
+- Ani kalkış ve duruşlardan kaçınılmalı, sabit hızda gidilmelidir.
+- Bekleme süreleri 30 saniyeyi geçiyorsa kontak kapatılmalıdır.
+
+
+Konu: Ofiste Enerji Verimliliği
+İpuçları:
+- Bilgisayarlar kullanılmadığında uyku moduna alınmalı, iş bitiminde tamamen kapatılmalıdır.
+- Mümkünse masaüstü yerine dizüstü bilgisayarlar (laptop) tercih edilmelidir; laptoplar yaklaşık 1/3 oranında daha az enerji harcar.
+- Yazıcılar ortak kullanılmalı, gereksiz çıktı alınmamalıdır.
+- Toplantılar seyahat yerine çevrimiçi (online) yapılmalıdır.
